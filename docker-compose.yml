@@ -1718,3 +1718,19 @@ services:
         - ${DATA_PATH_HOST}/tomcat/logs:/usr/local/tomcat/logs
       # restart: always
 
+  ### Sphinx Search engine ####################################
+    sphinxsearch:
+      build: ./sphinxsearch
+      ports:
+        - "${SPHINX_SEARCH_PORT}:36307"
+        - "${SPHINX_SEARCH_PORT_MYSQL}:36308"
+      depends_on:
+        - "${PMA_DB_ENGINE}"
+      volumes:
+        - ${SPHINX_SEARCH_LOG_PATH}:/opt/sphinx/log
+        - ${DATA_PATH_HOST}/sphinx/index:/opt/sphinx/index
+        - ${SPHINX_SEARCH_CONFIG}:/opt/sphinx/conf/sphinx.conf
+      tty: true
+      networks:
+        - frontend
+        - backend

@@ -1,0 +1,643 @@
+[Wed Oct 14 08:36:31.869 2020] [7] listening on all interfaces, port=36307
+[Wed Oct 14 08:36:31.869 2020] [7] listening on all interfaces, port=36308
+[Wed Oct 14 08:36:31.870 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.001
+[Wed Oct 14 08:36:31.870 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:36:31.870 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.001; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:36:31.870 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.002
+[Wed Oct 14 08:36:31.870 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:36:31.870 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.002; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:36:31.870 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.003
+[Wed Oct 14 08:36:31.870 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:36:31.870 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.003; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:36:31.870 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.004
+[Wed Oct 14 08:36:31.871 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:36:31.871 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.004; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:36:31.871 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.005
+[Wed Oct 14 08:36:31.871 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:36:31.871 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.005; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:36:31.871 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.006
+[Wed Oct 14 08:36:31.871 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:36:31.872 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.006; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:36:31.872 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.007
+[Wed Oct 14 08:36:31.872 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:36:31.872 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.007; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:36:31.872 2020] [7] binlog: finished replaying total 7 in 0.001 sec
+[Wed Oct 14 08:36:31.872 2020] [7] accepting connections
+[Wed Oct 14 08:36:31.872 2020] [15] prereading 1 indexes
+[Wed Oct 14 08:36:31.872 2020] [15] prereaded 1 indexes in 0.000 sec
+[Wed Oct 14 08:40:04.306 2020] [21] WARNING: failed to receive MySQL request body (client=172.23.0.1:51464(6), exp=5522759, error='Connection reset by peer')
+[Wed Oct 14 08:40:04.546 2020] [22] WARNING: failed to receive MySQL request body (client=172.23.0.1:51468(7), exp=5522759, error='Connection reset by peer')
+[Wed Oct 14 08:40:08.300 2020] [24] query error: invalid command (code=12064, len=1414541105)
+[Wed Oct 14 08:40:08.300 2020] [24] WARNING: ill-formed client request (length=1414541105 out of bounds)
+[Wed Oct 14 08:40:08.300 2020] [24] WARNING: ill-formed client request (command=12064, SEARCHD_COMMAND_TOTAL=13)
+[Wed Oct 14 08:50:05.222 2020] [6] listening on all interfaces, port=36307
+[Wed Oct 14 08:50:05.222 2020] [6] listening on all interfaces, port=36308
+[Wed Oct 14 08:50:05.223 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.001
+[Wed Oct 14 08:50:05.223 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:50:05.223 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.001; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:50:05.223 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.002
+[Wed Oct 14 08:50:05.223 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:50:05.223 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.002; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:50:05.223 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.003
+[Wed Oct 14 08:50:05.223 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:50:05.223 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.003; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:50:05.223 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.004
+[Wed Oct 14 08:50:05.223 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:50:05.223 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.004; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:50:05.224 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.005
+[Wed Oct 14 08:50:05.224 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:50:05.224 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.005; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:50:05.224 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.006
+[Wed Oct 14 08:50:05.224 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:50:05.224 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.006; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:50:05.224 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.007
+[Wed Oct 14 08:50:05.224 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:50:05.224 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.007; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:50:05.224 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.008
+[Wed Oct 14 08:50:05.224 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:50:05.224 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.008; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:50:05.224 2020] [6] binlog: finished replaying total 8 in 0.000 sec
+[Wed Oct 14 08:50:05.225 2020] [6] accepting connections
+[Wed Oct 14 08:50:05.225 2020] [14] prereading 1 indexes
+[Wed Oct 14 08:50:05.225 2020] [14] prereaded 1 indexes in 0.000 sec
+[Wed Oct 14 08:53:51.133 2020] [6] listening on all interfaces, port=36307
+[Wed Oct 14 08:53:51.133 2020] [6] listening on all interfaces, port=36308
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.001
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.001; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.002
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.002; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.003
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.003; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.004
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.004; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.005
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.005; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.006
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.006; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.007
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.007; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.008
+[Wed Oct 14 08:53:51.134 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:53:51.135 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.008; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:53:51.135 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.009
+[Wed Oct 14 08:53:51.135 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:53:51.135 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.009; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:53:51.135 2020] [6] binlog: finished replaying total 9 in 0.001 sec
+[Wed Oct 14 08:53:51.135 2020] [6] accepting connections
+[Wed Oct 14 08:53:51.135 2020] [14] prereading 1 indexes
+[Wed Oct 14 08:53:51.135 2020] [14] prereaded 1 indexes in 0.000 sec
+[Wed Oct 14 08:54:28.212 2020] [7] listening on all interfaces, port=36307
+[Wed Oct 14 08:54:28.212 2020] [7] listening on all interfaces, port=36308
+[Wed Oct 14 08:54:28.213 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.001
+[Wed Oct 14 08:54:28.213 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:54:28.213 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.001; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:54:28.213 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.002
+[Wed Oct 14 08:54:28.213 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:54:28.213 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.002; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:54:28.213 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.003
+[Wed Oct 14 08:54:28.213 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:54:28.213 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.003; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:54:28.213 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.004
+[Wed Oct 14 08:54:28.213 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:54:28.213 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.004; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:54:28.213 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.005
+[Wed Oct 14 08:54:28.213 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:54:28.213 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.005; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:54:28.214 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.006
+[Wed Oct 14 08:54:28.214 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:54:28.214 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.006; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:54:28.214 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.007
+[Wed Oct 14 08:54:28.214 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:54:28.214 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.007; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:54:28.214 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.008
+[Wed Oct 14 08:54:28.214 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:54:28.214 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.008; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:54:28.214 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.009
+[Wed Oct 14 08:54:28.214 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:54:28.214 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.009; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:54:28.214 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.010
+[Wed Oct 14 08:54:28.214 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:54:28.214 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.010; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:54:28.214 2020] [7] binlog: finished replaying total 10 in 0.001 sec
+[Wed Oct 14 08:54:28.215 2020] [7] accepting connections
+[Wed Oct 14 08:54:28.215 2020] [15] prereading 1 indexes
+[Wed Oct 14 08:54:28.215 2020] [15] prereaded 1 indexes in 0.000 sec
+[Wed Oct 14 08:57:31.169 2020] [6] listening on all interfaces, port=36307
+[Wed Oct 14 08:57:31.169 2020] [6] listening on all interfaces, port=36308
+[Wed Oct 14 08:57:31.170 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.001
+[Wed Oct 14 08:57:31.170 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:57:31.170 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.001; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.002
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.002; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.003
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.003; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.004
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.004; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.005
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.005; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.006
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.006; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.007
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.007; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.008
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.008; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.009
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.009; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.010
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.010; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.011
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.011; 0.0 MB in 0.000 sec
+[Wed Oct 14 08:57:31.171 2020] [6] binlog: finished replaying total 11 in 0.001 sec
+[Wed Oct 14 08:57:31.172 2020] [6] accepting connections
+[Wed Oct 14 08:57:31.172 2020] [14] prereading 1 indexes
+[Wed Oct 14 08:57:31.172 2020] [14] prereaded 1 indexes in 0.000 sec
+[Wed Oct 14 09:01:13.081 2020] [6] listening on all interfaces, port=36307
+[Wed Oct 14 09:01:13.081 2020] [6] listening on all interfaces, port=36308
+[Wed Oct 14 09:01:13.082 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.001
+[Wed Oct 14 09:01:13.082 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:01:13.082 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.001; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:01:13.082 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.002
+[Wed Oct 14 09:01:13.082 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:01:13.082 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.002; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:01:13.082 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.003
+[Wed Oct 14 09:01:13.082 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:01:13.082 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.003; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:01:13.082 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.004
+[Wed Oct 14 09:01:13.082 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:01:13.082 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.004; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:01:13.082 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.005
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.005; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.006
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.006; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.007
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.007; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.008
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.008; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.009
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.009; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.010
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.010; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.011
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.011; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.012
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.012; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:01:13.083 2020] [6] binlog: finished replaying total 12 in 0.001 sec
+[Wed Oct 14 09:01:13.084 2020] [6] accepting connections
+[Wed Oct 14 09:01:13.084 2020] [14] prereading 1 indexes
+[Wed Oct 14 09:01:13.084 2020] [14] prereaded 1 indexes in 0.000 sec
+[Wed Oct 14 09:03:54.663 2020] [16] query error: invalid command (code=12064, len=1414541105)
+[Wed Oct 14 09:03:54.663 2020] [16] WARNING: ill-formed client request (length=1414541105 out of bounds)
+[Wed Oct 14 09:03:54.663 2020] [16] WARNING: ill-formed client request (command=12064, SEARCHD_COMMAND_TOTAL=13)
+[Wed Oct 14 09:03:54.963 2020] [17] query error: invalid command (code=12064, len=1414541105)
+[Wed Oct 14 09:03:54.963 2020] [17] WARNING: ill-formed client request (length=1414541105 out of bounds)
+[Wed Oct 14 09:03:54.963 2020] [17] WARNING: ill-formed client request (command=12064, SEARCHD_COMMAND_TOTAL=13)
+[Wed Oct 14 09:05:32.719 2020] [7] listening on all interfaces, port=36307
+[Wed Oct 14 09:05:32.719 2020] [7] listening on all interfaces, port=36308
+[Wed Oct 14 09:05:32.720 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.001
+[Wed Oct 14 09:05:32.720 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:05:32.720 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.001; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:05:32.720 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.002
+[Wed Oct 14 09:05:32.720 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:05:32.720 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.002; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:05:32.720 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.003
+[Wed Oct 14 09:05:32.720 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:05:32.720 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.003; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:05:32.720 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.004
+[Wed Oct 14 09:05:32.720 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:05:32.720 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.004; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:05:32.720 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.005
+[Wed Oct 14 09:05:32.720 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:05:32.720 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.005; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:05:32.720 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.006
+[Wed Oct 14 09:05:32.720 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:05:32.720 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.006; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:05:32.720 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.007
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.007; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.008
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.008; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.009
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.009; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.010
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.010; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.011
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.011; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.012
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.012; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.013
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.013; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:05:32.721 2020] [7] binlog: finished replaying total 13 in 0.001 sec
+[Wed Oct 14 09:05:32.722 2020] [7] accepting connections
+[Wed Oct 14 09:05:32.722 2020] [15] prereading 1 indexes
+[Wed Oct 14 09:05:32.722 2020] [15] prereaded 1 indexes in 0.000 sec
+[Wed Oct 14 09:14:47.562 2020] [6] listening on all interfaces, port=36307
+[Wed Oct 14 09:14:47.562 2020] [6] listening on all interfaces, port=36308
+[Wed Oct 14 09:14:47.563 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.001
+[Wed Oct 14 09:14:47.563 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:14:47.563 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.001; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.002
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.002; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.003
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.003; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.004
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.004; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.005
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.005; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.006
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.006; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.007
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.007; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.008
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.008; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.009
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.009; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.010
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.010; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:14:47.564 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.011
+[Wed Oct 14 09:14:47.565 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:14:47.565 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.011; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:14:47.565 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.012
+[Wed Oct 14 09:14:47.565 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:14:47.565 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.012; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:14:47.565 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.013
+[Wed Oct 14 09:14:47.565 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:14:47.565 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.013; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:14:47.565 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.014
+[Wed Oct 14 09:14:47.565 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:14:47.565 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.014; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:14:47.565 2020] [6] binlog: finished replaying total 14 in 0.001 sec
+[Wed Oct 14 09:14:47.565 2020] [6] accepting connections
+[Wed Oct 14 09:14:47.565 2020] [14] prereading 1 indexes
+[Wed Oct 14 09:14:47.566 2020] [14] prereaded 1 indexes in 0.000 sec
+[Wed Oct 14 09:18:40.403 2020] [7] listening on all interfaces, port=36307
+[Wed Oct 14 09:18:40.403 2020] [7] listening on all interfaces, port=36308
+[Wed Oct 14 09:18:40.404 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.001
+[Wed Oct 14 09:18:40.404 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:18:40.404 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.001; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:18:40.404 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.002
+[Wed Oct 14 09:18:40.404 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:18:40.404 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.002; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:18:40.404 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.003
+[Wed Oct 14 09:18:40.404 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:18:40.404 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.003; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:18:40.404 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.004
+[Wed Oct 14 09:18:40.404 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:18:40.404 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.004; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:18:40.404 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.005
+[Wed Oct 14 09:18:40.404 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:18:40.404 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.005; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.006
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.006; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.007
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.007; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.008
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.008; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.009
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.009; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.010
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.010; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.011
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.011; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.012
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.012; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.013
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.013; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.014
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:18:40.405 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.014; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:18:40.406 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.015
+[Wed Oct 14 09:18:40.406 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:18:40.406 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.015; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:18:40.406 2020] [7] binlog: finished replaying total 15 in 0.001 sec
+[Wed Oct 14 09:18:40.406 2020] [7] accepting connections
+[Wed Oct 14 09:18:40.406 2020] [15] prereading 1 indexes
+[Wed Oct 14 09:18:40.406 2020] [15] prereaded 1 indexes in 0.000 sec
+[Wed Oct 14 09:58:59.382 2020] [6] listening on all interfaces, port=36307
+[Wed Oct 14 09:58:59.382 2020] [6] listening on all interfaces, port=36308
+[Wed Oct 14 09:58:59.383 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.001
+[Wed Oct 14 09:58:59.383 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:58:59.383 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.001; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:58:59.383 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.002
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.002; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.003
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.003; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.004
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.004; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.005
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.005; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.006
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.006; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.007
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.007; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.008
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.008; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.009
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.009; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.010
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.010; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.011
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.011; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.012
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:58:59.384 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.012; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:58:59.385 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.013
+[Wed Oct 14 09:58:59.385 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:58:59.385 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.013; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:58:59.385 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.014
+[Wed Oct 14 09:58:59.385 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:58:59.385 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.014; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:58:59.385 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.015
+[Wed Oct 14 09:58:59.385 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:58:59.385 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.015; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:58:59.385 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.016
+[Wed Oct 14 09:58:59.385 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 09:58:59.385 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.016; 0.0 MB in 0.000 sec
+[Wed Oct 14 09:58:59.385 2020] [6] binlog: finished replaying total 16 in 0.001 sec
+[Wed Oct 14 09:58:59.385 2020] [6] accepting connections
+[Wed Oct 14 09:58:59.385 2020] [14] prereading 1 indexes
+[Wed Oct 14 09:58:59.386 2020] [14] prereaded 1 indexes in 0.000 sec
+[Wed Oct 14 10:00:39.957 2020] [7] listening on all interfaces, port=36307
+[Wed Oct 14 10:00:39.958 2020] [7] listening on all interfaces, port=36308
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.001
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.001; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.002
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.002; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.003
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.003; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.004
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.004; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.005
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.005; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.006
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.006; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.007
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.007; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.008
+[Wed Oct 14 10:00:39.959 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.008; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.009
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.009; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.010
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.010; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.011
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.011; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.012
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.012; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.013
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.013; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.014
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.014; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.015
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.015; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.016
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.016; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.017
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.017; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:00:39.960 2020] [7] binlog: finished replaying total 17 in 0.001 sec
+[Wed Oct 14 10:00:39.961 2020] [7] accepting connections
+[Wed Oct 14 10:00:39.961 2020] [15] prereading 1 indexes
+[Wed Oct 14 10:00:39.961 2020] [15] prereaded 1 indexes in 0.000 sec
+[Wed Oct 14 10:04:32.148 2020] [7] listening on all interfaces, port=36307
+[Wed Oct 14 10:04:32.149 2020] [7] listening on all interfaces, port=36308
+[Wed Oct 14 10:04:32.151 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.001
+[Wed Oct 14 10:04:32.151 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:04:32.151 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.001; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:04:32.151 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.002
+[Wed Oct 14 10:04:32.151 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:04:32.151 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.002; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:04:32.151 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.003
+[Wed Oct 14 10:04:32.151 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:04:32.151 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.003; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:04:32.151 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.004
+[Wed Oct 14 10:04:32.152 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:04:32.152 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.004; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.005
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.005; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.006
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.006; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.007
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.007; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.008
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.008; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.009
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.009; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.010
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.010; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.011
+[Wed Oct 14 10:04:32.153 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.011; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.012
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.012; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.013
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.013; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.014
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.014; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.015
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.015; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.016
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.016; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.017
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.017; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: replaying log /opt/sphinx/index/binlog.018
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: finished replaying /opt/sphinx/index/binlog.018; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:04:32.154 2020] [7] binlog: finished replaying total 18 in 0.003 sec
+[Wed Oct 14 10:04:32.155 2020] [7] accepting connections
+[Wed Oct 14 10:04:32.155 2020] [15] prereading 1 indexes
+[Wed Oct 14 10:04:32.155 2020] [15] prereaded 1 indexes in 0.000 sec
+[Wed Oct 14 10:12:57.564 2020] [7] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed Oct 14 10:12:57.565 2020] [7] WARNING: nothing to rotate after SIGHUP
+[Wed Oct 14 10:14:01.225 2020] [7] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed Oct 14 10:14:01.225 2020] [7] WARNING: nothing to rotate after SIGHUP
+[Wed Oct 14 10:14:20.238 2020] [7] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed Oct 14 10:14:20.238 2020] [7] WARNING: nothing to rotate after SIGHUP
+[Wed Oct 14 10:16:35.306 2020] [7] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed Oct 14 10:16:35.306 2020] [7] WARNING: nothing to rotate after SIGHUP
+[Wed Oct 14 10:17:37.460 2020] [7] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed Oct 14 10:17:37.460 2020] [7] WARNING: nothing to rotate after SIGHUP
+[Wed Oct 14 10:18:40.240 2020] [6] listening on all interfaces, port=36307
+[Wed Oct 14 10:18:40.240 2020] [6] listening on all interfaces, port=36308
+[Wed Oct 14 10:18:40.242 2020] [6] rotating index 'products_index': success
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.001
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.001; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.002
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.002; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.003
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.003; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.004
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.004; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.005
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.005; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.006
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.006; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.007
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.007; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.008
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.008; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.009
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.009; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.010
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.010; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.011
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.011; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.012
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:18:40.243 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.012; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.013
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.013; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.014
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.014; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.015
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.015; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.016
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.016; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.017
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.017; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.018
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.018; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: replaying log /opt/sphinx/index/binlog.019
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: finished replaying /opt/sphinx/index/binlog.019; 0.0 MB in 0.000 sec
+[Wed Oct 14 10:18:40.244 2020] [6] binlog: finished replaying total 19 in 0.001 sec
+[Wed Oct 14 10:18:40.245 2020] [6] accepting connections
+[Wed Oct 14 10:18:40.245 2020] [14] prereading 1 indexes
+[Wed Oct 14 10:18:40.245 2020] [14] prereaded 1 indexes in 0.000 sec
+[Wed Oct 14 10:19:19.665 2020] [6] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed Oct 14 10:19:19.706 2020] [7] rotating index 'products_index': started
+[Wed Oct 14 10:19:19.708 2020] [7] rotating index 'products_index': success
+[Wed Oct 14 10:19:19.708 2020] [7] rotating index: all indexes done
+[Wed Oct 14 10:21:40.436 2020] [6] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed Oct 14 10:21:40.458 2020] [7] rotating index 'products_index': started
+[Wed Oct 14 10:21:40.459 2020] [7] rotating index 'products_index': success
+[Wed Oct 14 10:21:40.459 2020] [7] rotating index: all indexes done
+[Wed Oct 14 10:23:13.854 2020] [6] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed Oct 14 10:23:13.880 2020] [7] rotating index 'products_index': started
+[Wed Oct 14 10:23:13.881 2020] [7] rotating index 'products_index': success
+[Wed Oct 14 10:23:13.881 2020] [7] rotating index: all indexes done
+[Wed Oct 14 10:26:22.957 2020] [6] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed Oct 14 10:26:22.992 2020] [7] rotating index 'products_index': started
+[Wed Oct 14 10:26:22.994 2020] [7] rotating index 'products_index': success
+[Wed Oct 14 10:26:22.994 2020] [7] rotating index: all indexes done
+[Wed Oct 14 10:29:26.805 2020] [6] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed Oct 14 10:29:26.852 2020] [7] rotating index 'products_index': started
+[Wed Oct 14 10:29:26.853 2020] [7] rotating index 'products_index': success
+[Wed Oct 14 10:29:26.853 2020] [7] rotating index: all indexes done
+[Wed Oct 14 10:33:05.061 2020] [6] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed Oct 14 10:33:05.100 2020] [7] rotating index 'products_index': started
+[Wed Oct 14 10:33:05.101 2020] [7] rotating index 'products_index': success
+[Wed Oct 14 10:33:05.102 2020] [7] rotating index: all indexes done
+[Wed Oct 14 10:33:56.286 2020] [6] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed Oct 14 10:33:56.286 2020] [7] rotating index 'products_index': started
+[Wed Oct 14 10:33:56.287 2020] [7] rotating index 'products_index': success
+[Wed Oct 14 10:33:56.287 2020] [7] rotating index: all indexes done
+[Wed Oct 14 10:38:11.901 2020] [6] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed Oct 14 10:38:11.922 2020] [7] rotating index 'products_index': started
+[Wed Oct 14 10:38:11.923 2020] [7] rotating index 'products_index': success
+[Wed Oct 14 10:38:11.923 2020] [7] rotating index: all indexes done
+[Wed Oct 14 10:42:01.686 2020] [6] caught SIGHUP (seamless=1, in_rotate=0, need_rotate=0)
+[Wed Oct 14 10:42:01.715 2020] [7] rotating index 'products_index': started
+[Wed Oct 14 10:42:01.717 2020] [7] rotating index 'products_index': success
+[Wed Oct 14 10:42:01.717 2020] [7] rotating index: all indexes done
