@@ -928,3 +928,10 @@ GEARMAN_MYSQL_TABLE=gearman_queue
 
 ### ELK Stack ##################################################
 ELK_VERSION=7.9.1
+
+### SPHINX SEARCH #########################################
+
+SPHINX_SEARCH_CONFIG=./sphinxsearch/sphinx.conf
+SPHINX_SEARCH_LOG_PATH=./sphinxsearch/log
+SPHINX_SEARCH_PORT=36307
+SPHINX_SEARCH_PORT_MYSQL=36308
