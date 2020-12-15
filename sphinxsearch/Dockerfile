@@ -58,4 +58,5 @@ RUN crontab /etc/cron.d/cron
 #RUN tail -f /tmp/stderr >&2 &
 
 
-CMD cron -f
+#CMD cron -f
+RUN service cron start
